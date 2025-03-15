@@ -38,7 +38,7 @@ Perfect for game masters looking for inspiration, D&D enthusiasts who want to se
 2. Install dependencies:
    ```
    npm init -y
-   npm install fetch
+   npm install node-fetch
    ```
 
 3. Make sure Ollama is running with the recommended model:
