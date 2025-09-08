@@ -67,7 +67,7 @@ Perfect for game masters looking for inspiration, D&D enthusiasts who want to se
    ```
 ## terminal3:
    ```
-   node D&D.js
+   node 'D&D.js'
    ```
 Watch as the AI-controlled D&D campaign unfolds in your terminal!
 
