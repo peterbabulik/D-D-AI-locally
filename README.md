@@ -44,7 +44,6 @@ Perfect for game masters looking for inspiration, D&D enthusiasts who want to se
 3. Make sure Ollama is running with the recommended model:
    ```
    ollama pull gemma3:1b
-   ollama run gemma3:1b
    ```
 
 4. Start the D&D simulation: in 3 separate terminals run
