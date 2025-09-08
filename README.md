@@ -1,10 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/peterbabulik/D-D-AI-locally/blob/main/Screenshot_20250908_191055.png" />
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/peterbabulik/D-D-AI-locally/blob/main/Screenshot_20250908_192053.png" />
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/peterbabulik/D-D-AI-locally/blob/main/Screenshot_20250908_192735.png" />
-</div>
-
-
 # D&D AI Locally
 
 Run AI-powered Dungeons & Dragons campaigns on your local machine using Ollama LLMs.
