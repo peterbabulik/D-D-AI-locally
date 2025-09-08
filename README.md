@@ -311,4 +311,67 @@ You can:
 
 [Waiting for all players to decide their actions...]
 
+ THORNE: My hand instinctively goes to the hilt of my greatsword, a familiar comfort. The mention of "disturbance" and "something awakening" in the Mistwood sends a chill down my spine, a prickle of unease that a soldier knows well. I meet Elara's gaze, my expression serious but not unfriendly.
+
+"Disturbances, you say?" I ask, my voice low and steady. "What kind of disturbances? Are we talking about wild beasts, or something… else?" I pause, letting the question hang in the air. "And this relic Old Man Hemlock seeks... what is it said to do? Could it truly protect the village from whatever is stirring in the woods?"
+
+I consider Elara's warning about unsettling stories. While I'm not one to shy away from danger, I'm also not reckless. I need to understand the threat before rushing headlong into it. 
+
+"I'll be heading to Old Man Hemlock's cottage," I state, my tone firm. "It seems a wise course of action to hear directly from the man who is concerned about these… disturbances. Perhaps I can offer my services, if needed." I give Elara a curt nod, a gesture of respect. "Thank you for the information."
+
+
+
+I then turn and head towards the door, making my way towards the cottage Elaara described. I walk with a purposeful stride, my senses alert, scanning the surroundings as I go. I keep my hand near my sword, ready for anything.
+
+
+
+
+
+
+🧙‍♂LYRA: My eyes gleam with interest as Elara speaks of ancient civilizations and restless woods. I subtly adjust my spectacles, a nervous habit when I'm deep in thought.
+
+"A relic, you say?" I ask, my voice laced with intellectual curiosity. "Connected to the old civilizations... fascinating. What sort of relic? Do the legends speak of magical artifacts, perhaps imbued with potent energies? Or something more… arcane?"
+
+I pause, considering. "The disturbances you mention… the strange lights, the unsettling howls… could these be connected to the relic? Or is something else stirring in the Mistwood, drawing attention to it?"
+
+I glance towards Elara, a hopeful expression on my face. "And if Old Man Hemlock is concerned about these disturbances, does he have any theories as to *what* is causing them? Any particular creatures or phenomena he suspects are responsible? I've studied many texts on the creatures that inhabit the wild places, and I'm always eager to expand my knowledge."
+
+I take a small, deliberate step forward, my hand instinctively hovering near my spellbook. "I am, as you may have gathered, quite interested in the history and magical properties of this region. If I can be of assistance in locating this relic or understanding the source of the disturbances, I would be honored to lend my skills." I offer a polite, yet earnest, smile. "Tell me more about this relic, Elara. Any details, no matter how seemingly insignificant, could prove valuable."
+
+
+
+
+
+
+🧙‍♂GRIMBLE: (I lean forward, a sly grin spreading across my face. I glance at Elara, then back at the other patrons in the tavern, my eyes lingering on a few who seem particularly keen to listen. I subtly adjust the strap of my belt, ensuring my thieves' tools remain concealed.)
+
+"Lost relics, you say?" I ask, my voice a low, almost conspiratorial murmur. "And things stirring in the deeper woods… that sounds like a job with a bit of… *intrigue*. I'm quite adept at finding things that are misplaced, and I have a knack for navigating… tricky situations. Especially those shrouded in mystery."
+
+I pause, letting my words hang in the air. "Tell me more about this relic, Elara. What kind of thing is it? And what makes Old Man Hemlock so concerned about it being found? Is it simply a matter of historical preservation, or is there something more… *dangerous* involved?"
+
+(I give a small, appraising glance towards the door leading to Old Man Hemlock's cottage, then back to Elara, my expression a mixture of curiosity and barely concealed excitement.)
+
+"And while you're at it," I add with a wink, "if there are any rumors of hidden paths or forgotten tunnels that might lead to this relic… well, a rogue can never have too many options, now can he?"
+
+
+
+
+
+
+🧙‍♂AURELIA: I nod slowly, absorbing Elara's words with a focused gaze. The mention of disturbances and a relic stirs a sense of purpose within me. Protecting the innocent and upholding good is my calling, and a threat to this village in the Mistwood is a concern I must address.
+
+"Thank you, Elara," I say, my voice calm and steady. "This is… most helpful. The idea of something 'awakening' in the Mistwood is troubling. It speaks of a darkness that needs to be contained." I pause, then look directly at Elara. "The relic Old Man Hemlock seeks… do you know anything more about it? Its purpose? Its history?"
+
+I then turn my attention to Old Man Hemlock's cottage. "I believe I will pay Old Man Hemlock a visit. If there is a threat to this village, it is my duty to learn of it and offer what aid I can. Perhaps I can use my abilities to discern the nature of this 'awakening' and assist in protecting the village."
+
+I give Elara a respectful nod. "And thank you for your hospitality. I appreciate you sharing this information with me." With that, I turn and head towards the cottage, my hand instinctively resting on the hilt of my greatsword, a silent promise of protection. I walk with a determined, yet measured pace, mindful of my surroundings.
+
+
+
+
+
+
+[Game Master is narrating the scene...]
+
+
 ~~~
