@@ -41,15 +41,20 @@ Perfect for game masters looking for inspiration, D&D enthusiasts who want to se
    npm install node-fetch
    ```
 
-3. Make sure Ollama is running with the recommended model:
+3. Run Ollama abd download recommended model:
+   ```
+   ollama serve
+   ```
+   in new terminal:
    ```
    ollama pull gemma3:1b
    ```
 
-4. Start the D&D simulation: in 3 separate terminals run
+5. Start the D&D simulation: in 3 separate terminals run
    ```
    ollama serve
    ```
+   double chceck if not already running (step 3 here)
    ```
    ollama run gemma3:1b
    ```
