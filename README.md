@@ -32,6 +32,8 @@ Perfect for game masters looking for inspiration, D&D enthusiasts who want to se
 1. Clone this repository:
    ```
    git clone https://github.com/peterbabulik/D-D-AI-locally
+   ```
+   ```
    cd D-D-AI-locally
    ```
 
