@@ -52,11 +52,11 @@ Perfect for game masters looking for inspiration, D&D enthusiasts who want to se
 
 5. Start the D&D simulation: in 3 separate terminals run
 
-#   terminal1:
+# terminal1:
    ```
    ollama serve
    ```
-# double chceck if not already running (step 3 here)
+   double chceck if not already running (step 3 here)
 # terminal2:
    ```
    ollama run gemma3:1b
