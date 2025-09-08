@@ -47,12 +47,18 @@ Perfect for game masters looking for inspiration, D&D enthusiasts who want to se
    ollama run gemma3:1b
    ```
 
-4. Start the D&D simulation:
+4. Start the D&D simulation: in 3 separate terminals run
+   ```
+   ollama serve
+   ```
+   ```
+   ollama run gemma3:1b
+   ```
    ```
    node index.js
    ```
 
-5. Watch as the AI-controlled D&D campaign unfolds in your terminal!
+6. Watch as the AI-controlled D&D campaign unfolds in your terminal!
 
 ## 📝 Customization
 
