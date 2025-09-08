@@ -136,7 +136,7 @@ async function runGame() {
         if (gameMaster) {
             const gmContext = generateGameMasterContext(db);
             console.log(`\n[Game Master is narrating the scene...]`);
-            const gmResponse = await askOllama('llama3.2:latest', gmContext);
+            const gmResponse = await askOllama('gemma3:1b', gmContext);
             
             if (gmResponse) {
                 console.log(`\n🎲 GAME MASTER: ${gmResponse}\n`);
