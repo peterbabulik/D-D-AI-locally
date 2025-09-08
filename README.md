@@ -38,6 +38,8 @@ Perfect for game masters looking for inspiration, D&D enthusiasts who want to se
 2. Install dependencies:
    ```
    npm init -y
+   ```
+   ```
    npm install node-fetch
    ```
 
