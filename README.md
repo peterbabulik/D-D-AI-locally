@@ -126,7 +126,7 @@ import characters from './characters.js';
 // Use the /api/chat endpoint for better compatibility with newer models
 const OLLAMA_API = 'http://localhost:11434/api/chat'; 
 const DB_FILE = 'dnd_campaign.json';
-const OLLAMA_MODEL = 'gemma3n:e4b'
+const OLLAMA_MODEL = 'gemma3:1b'
 ```
 
 ## 🧠 How It Works
