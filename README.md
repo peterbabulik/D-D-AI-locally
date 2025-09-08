@@ -172,7 +172,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Inspired by AI dungeon masters and autonomous agent frameworks
 - Built with [Ollama](https://ollama.ai/) for local LLM inference
 - Special thanks to the D&D community and AI enthusiasts
-## game example
+
+## game example with: gemma3n:e4b 7.5GB/32K/Text
 
 ~~~text
 $ node 'D&D.js'
