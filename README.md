@@ -50,7 +50,7 @@ Perfect for game masters looking for inspiration, D&D enthusiasts who want to se
    ollama pull gemma3:1b
    ```
 
-5. Start the D&D simulation: in 3 separate terminals run
+# 4. Start the D&D simulation: in 3 separate terminals run
 
 ## terminal1:
    ```
