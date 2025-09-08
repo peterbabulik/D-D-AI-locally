@@ -67,7 +67,7 @@ Perfect for game masters looking for inspiration, D&D enthusiasts who want to se
    ```
 ## terminal3:
    ```
-   node index.js
+   node D&D.js
    ```
 Watch as the AI-controlled D&D campaign unfolds in your terminal!
 
@@ -94,7 +94,7 @@ Edit the `characters.js` file to change existing characters or add new ones:
 
 ### Campaign Settings
 
-The initial campaign state is created in the `loadDatabase()` function in `index.js`. Modify this to start with different settings:
+The initial campaign state is created in the `loadDatabase()` function in `D&D.js`. Modify this to start with different settings:
 
 ```javascript
 return {
@@ -116,28 +116,17 @@ return {
 ```
 ### Change ollama model:
 
-now we using gemma3:1b with ollama, you can change it in line 139 in index.js for other ollama models:
+now we using gemma3:1b with ollama, you can change it in line 8 in index.js for other ollama models:
 
 ```javascript
-// Game loop
-    while (true) {
-        // First, the Game Master takes a turn
-        const gameMaster = characters.find(char => char.role === "Game Master");
-        
-        if (gameMaster) {
-            const gmContext = generateGameMasterContext(db);
-            console.log(`\n[Game Master is narrating the scene...]`);
-            const gmResponse = await askOllama('gemma3:1b', gmContext);
-            
-            if (gmResponse) {
-                console.log(`\n🎲 GAME MASTER: ${gmResponse}\n`);
-                
-                // Log GM's narration
-                const gmEvent = {
-                    actor: "Game Master",
-                    event: gmResponse,
-                    timestamp: new Date().toISOString()
-                };
+import fetch from 'node-fetch';
+import fs from 'fs/promises';
+import characters from './characters.js';
+
+// Use the /api/chat endpoint for better compatibility with newer models
+const OLLAMA_API = 'http://localhost:11434/api/chat'; 
+const DB_FILE = 'dnd_campaign.json';
+const OLLAMA_MODEL = 'gemma3n:e4b'
 ```
 
 ## 🧠 How It Works
