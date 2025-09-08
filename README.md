@@ -114,6 +114,31 @@ return {
     }))
 };
 ```
+### Change ollama model:
+
+now we using gemma3:1b with ollama, you can change it in line 139 in index.js for other ollama models:
+
+```javascript
+// Game loop
+    while (true) {
+        // First, the Game Master takes a turn
+        const gameMaster = characters.find(char => char.role === "Game Master");
+        
+        if (gameMaster) {
+            const gmContext = generateGameMasterContext(db);
+            console.log(`\n[Game Master is narrating the scene...]`);
+            const gmResponse = await askOllama('gemma3:1b', gmContext);
+            
+            if (gmResponse) {
+                console.log(`\n🎲 GAME MASTER: ${gmResponse}\n`);
+                
+                // Log GM's narration
+                const gmEvent = {
+                    actor: "Game Master",
+                    event: gmResponse,
+                    timestamp: new Date().toISOString()
+                };
+```
 
 ## 🧠 How It Works
 
