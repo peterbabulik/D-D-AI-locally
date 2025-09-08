@@ -197,9 +197,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ~~~text
 $ node 'D&D.js'
-(node:226770) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/pe3k/pyMeow/D-D-AI-locally/D&D.js is not specified and it doesn't parse as CommonJS.
+(node:226770) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/D-D-AI-locally/D&D.js is not specified and it doesn't parse as CommonJS.
 Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
-To eliminate this warning, add "type": "module" to /home/pe3k/pyMeow/D-D-AI-locally/package.json.
+To eliminate this warning, add "type": "module" to /home/D-D-AI-locally/package.json.
 (Use `node --trace-warnings ...` to show where the warning was created)
 Initializing D&D Game Simulation...
 Loading D&D campaign data...
