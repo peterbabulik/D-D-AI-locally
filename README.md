@@ -158,27 +158,6 @@ now we using gemma3:1b with ollama, you can change it in line 139 in index.js fo
    - Custom prompts provide context to each character
    - System analyzes responses to update game state
 
-## 🔍 Advanced Usage
-
-### Analyzing Characters
-
-```javascript
-import { analyzeCharacter } from './index.js';
-
-// Get stats about a specific character
-const characterData = await analyzeCharacter("Lyra");
-console.log(characterData);
-```
-
-### Campaign Analysis
-
-```javascript
-import { analyzeCampaign } from './index.js';
-
-// Get overall campaign statistics
-const campaignData = await analyzeCampaign();
-console.log(campaignData);
-```
 
 ## 📜 License
 
